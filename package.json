@@ -1,7 +1,7 @@
 {
     "name": "mongodb-w-ts",
     "version": "1.0.0",
-    "description": "Welcome to this MongoDB and TypeScript sample project. The aim of this project is to give you a working example of how you can use the power of MongoDB Atlas with TypeScript and Express to create modern web applications.",
+    "description": "",
     "main": "dist/index.js",
     "keywords": [
         "mongodb",
