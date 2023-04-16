@@ -1,6 +1,6 @@
 ### MongoDB w/ Express in TypeScript 🧩
 
-This is an Express REST API application that store/retrieve/update/delete data in MongoDB. 
+ℹ️ This is an Express REST API application that store/retrieve/update/delete data in MongoDB. 
 
 Very soon I will also add a Swagger page with endpoints and deploy the application to make it accessible for everyone.  
 
